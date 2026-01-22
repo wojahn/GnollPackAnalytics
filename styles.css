@@ -1,0 +1,7 @@
+/* css styles */
+/* Increase navbar logo size */
+.navbar-brand img {
+	max-height: 100px;   /* try 50–80px */
+	width: auto;
+}
+/* css styles */
